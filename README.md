@@ -20,7 +20,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently learning Cloud Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusalesilv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mateusalesilv/mateusalesilv/issues/2)! I am happy to help.
-- 📫 &nbsp; How to reach me: mateus.alexandresilva22@gmail.com.
+- 📫 &nbsp; How to reach me: m.alexandresilva22@gmail.com.
 
 ### Languages and Tools:
 
