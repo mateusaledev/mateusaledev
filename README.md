@@ -16,7 +16,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Java, NodeJS, Python, <br /> Graphql, Mongodb, AWS, etc.
+- 🛠 &nbsp; I’m currently working with Java, C#, Python, <br /> Spring, MySQL, AWS, etc.
 - 🚀 &nbsp; I’m currently learning Cloud Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusalesilv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mateusalesilv/mateusalesilv/issues/2)! I am happy to help.
