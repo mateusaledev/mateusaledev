@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Mateus Silva!](https://github.com/mateusalesilv/)
+## Hey 👋, I'm [Mateus Silva!](https://github.com/mateusaledev/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusalexandredasilva/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/10MKAS)
@@ -10,16 +10,16 @@ I'm a graduate in Analysis and systems development 🎓 from Estácio de Sá  �
 
 Like My Work?
 
-[![](https://gitwar.herokuapp.com/badge?username=mateusalesilv&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=mateusaledev&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mateusalesilv/mateusalesilv/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mateusaledev/mateusaledev/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java, C#, Python, <br /> Spring, MySQL, AWS, etc.
 - 🚀 &nbsp; I’m currently learning Cloud Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusalesilv).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/mateusalesilv/mateusalesilv/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mateusaledev).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/mateusalesilv/mateusaledev/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: m.alexandresilva22@gmail.com.
 
 ### Languages and Tools:
@@ -40,13 +40,13 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusalesilv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalesilv&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusaledev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaledev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusalesilv&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusaledev&hide_border=true" />
 </details>
