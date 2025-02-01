@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+<h3 align="left">👩‍💻  Sobre mim|About Me:</h3>
 
 ###
 
-<p align="left">Sou um Software Engineer, atuando a mais de 3 anos no mundo da programação. Estou dispoto a ajudar, fique a vontade para entrar em contato. | I'm a Software Engineer, with over 3 years of experience in programming. I'm always open to helping, so feel free to reach out.<br><br>- 🔭 I work with Java & Python.<br>- 📚  I'm expanding my knowledge in AWS.<br>- ⚡ In my free time, I build my startup and contribute to the community.</p>
+<p align="left">Sou um Software Engineer, atuando a mais de 3 anos no mundo da programação. Estou dispoto a ajudar, fique a vontade para entrar em contato. I'm a Software Engineer, with over 3 years of experience in programming. I'm always open to helping, so feel free to reach out.<br><br>- 🔭 I work with Java & Python.<br>- 📚  I'm expanding my knowledge in AWS.<br>- ⚡ In my free time, I build my startup and contribute to the community.</p>
 
 ###
 
