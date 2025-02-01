@@ -16,11 +16,11 @@
 
 ###
 
-<h1 align="center">Fala Pessoal👋</h1>
+<h1 align="center">Olá | Hello 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim|About Me:</h3>
+<h3 align="left">👩‍💻  Sobre mim | About Me:</h3>
 
 ###
 
