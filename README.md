@@ -2,7 +2,7 @@
 
 Desenvolvedor backend (Java / Spring), hoje na NTT DATA. Formado em Análise e Desenvolvimento de Sistemas.
 
-[Portfólio](https://mk-portifolio-five.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mateusalexandredasilva/) · [Acervo de estudos](https://mateusaledev.github.io/)
+[Portfólio](https://mk-portifolio-five.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mateusalexandredasilva/)
 
 ## Stack
 
