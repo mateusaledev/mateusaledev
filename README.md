@@ -6,7 +6,7 @@ Desenvolvedor backend (Java / Python / AWS), hoje na NTT DATA. Formado em Análi
 
 ## Stack
 
-Java · Spring Boot · Spring Cloud · Kafka · MySQL · PostgreSQL · Docker
+Java · Spring Boot · AWS · Kafka · SQL · Python · Docker
 
 ## Projetos em destaque
 
