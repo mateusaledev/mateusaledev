@@ -1,6 +1,6 @@
 # Mateus Alexandre da Silva
 
-Desenvolvedor backend (Java / Spring), hoje na NTT DATA. Formado em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor backend (Java / Python / AWS), hoje na NTT DATA. Formado em Análise e Desenvolvimento de Sistemas.
 
 [Portfólio](https://mk-portifolio-five.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mateusalexandredasilva/)
 
